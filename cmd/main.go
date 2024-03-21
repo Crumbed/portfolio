@@ -39,7 +39,7 @@ func main() {
         return c.Render(200, "index", nil)
     })
 
-    e.Logger.Fatal(e.Start(":42069"))
+    e.Logger.Fatal(e.Start(":69420"))
 }
 
 
